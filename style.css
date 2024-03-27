@@ -1,0 +1,25 @@
+.mydiv
+{
+    width: 305px;
+    height: 168px;
+    border: 1px solid pink;
+}
+.mydiv1
+{
+    width: 657px;
+    height: 121px;
+    border: 3px dashed purple;
+}
+.mydiv2
+{
+    width: 399px;
+    height: 95px;
+    border: 3px solid green;
+}
+.mydiv3
+{
+    width: 1097px;
+    height: 173px;
+    border: 3px solid purple;
+    background-color: blue;
+}
